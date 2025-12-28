@@ -3,17 +3,18 @@
 ## Project Overview
 This project focuses on building a **real-world car price prediction system** using **real market data** scraped from multiple websites.
 
-The goal is to:
-- Collect **real car prices** from online sources  
-- Analyse and clean the data  
-- Build a **machine learning model** to predict car prices  
-- Deploy the final solution as an **interactive Streamlit app**
+The goal is to: <br/>
+- Collect **real car prices** from online sources.  
+- Analyse and clean the data.
+- Build a **machine learning model** to predict car prices.  
+- Deploy the final solution as an **interactive Streamlit app**. <br/>
 
 This project follows an **end-to-end data science workflow**, from data collection to deployment.
 
 ---
 
-## 🔍 Project Objectives
+## Project Objectives
+
 - Scrape car listings data from different websites  
 - Perform **Exploratory Data Analysis (EDA)**  
 - Apply data cleaning and preprocessing  
@@ -21,19 +22,20 @@ This project follows an **end-to-end data science workflow**, from data collecti
 - Train and evaluate multiple **machine learning models**
 - Select the best-performing model  
 - Deploy the model using **Streamlit**
+
 ---
 
-## 🧠 Workflow
+## Workflow
 1. **Web Scraping**
-   - Extract car prices and features such as:
-     - Brand
-     - Model
-     - Year
-     - Mileage
-     - Fuel type
-     - Transmission
-     - Location
-     - Price
+- Extract car prices and features such as:
+   - Brand
+   - Model
+   - Year
+   - Mileage
+   - Fuel type
+   - Transmission
+   - Location
+   - Price
 
 2. **Data Cleaning & Preprocessing**
    - Handle missing values  
@@ -61,7 +63,7 @@ This project follows an **end-to-end data science workflow**, from data collecti
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**
 - **BeautifulSoup / Selenium** (Web Scraping)
 - **Pandas, NumPy** (Data manipulation)
